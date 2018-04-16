@@ -15,8 +15,9 @@ Uploaded is the web application for the project. It has been coded in PHP Larave
 
 ### System Requirements
 The website was built and tested on a PC running Windows 10 (x64) with 8GB RAM. Additional requirements include:
-- [WAMP Server](www.wampserver.com/en/) for PHP/MySQL requirements
+- [WAMP Server](http://www.wampserver.com/en/) for PHP/MySQL requirements
 - [Composer](https://getcomposer.org/download/) (for Laravel)
+
 For a full list of requirements, check [Laravel Installation](https://laravel.com/docs/5.4/installation)
 
 ## Usage
@@ -28,5 +29,5 @@ localhost/bins/input/[GSM Number]-[Weight]-[IR]
 
 ## People
 
-- * **[Dr. Khurram Kamal](k.kamal@ceme.nust.edu.pk)** - *Project Supervisor*
+- * **[Dr. Khurram Kamal](mailto:k.kamal@ceme.nust.edu.pk)** - *Project Supervisor*
 - * **[Abdullah Gulraiz](mailto:abdullahgulraiz@outlook.com)** - *Web Developer*
