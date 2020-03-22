@@ -21,7 +21,7 @@ The website was built and tested on a PC running Windows 10 (x64) with 8GB RAM. 
 For a full list of requirements, check [Laravel Installation](https://laravel.com/docs/5.4/installation)
 
 ## Usage
-The website comes without any warranty as is. Serve the project through PHP Artisan ([deploying Laravel application]()). Head over to _index.php_ to see a list of available bins at different locations. Clicking on a bin shows its trends. Data can be fed manually or through GSM by sending required variables to:
+The website comes without any warranty as is. Serve the project through PHP Artisan. Head over to _index.php_ to see a list of available bins at different locations. Clicking on a bin shows its trends. Data can be fed manually or through GSM by sending required variables to:
 
 ```
 localhost/bins/input/[GSM Number]-[Weight]-[IR]
