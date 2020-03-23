@@ -1,4 +1,4 @@
-[![Purpose](https://img.shields.io/badge/Purpose-Prototype-blue.svg)](https://github.com/abdullahgulraiz/SyncroRun)     [![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://github.com/abdullahgulraiz/SyncroRun)
+[![Purpose](https://img.shields.io/badge/Purpose-Prototype-blue.svg)](https://github.com/abdullahgulraiz/SwiftBin-Web-Application)     [![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://github.com/abdullahgulraiz/SwiftBin-Web-Application)
 
 # SwiftBin
 SwiftBin is a project that promotes efficient garbage collection operations by usage of smart garbage bins. The amount of garbage in bins in a certain locality are monitored in real time, and relevant personnel notified when garbage bins are full.
