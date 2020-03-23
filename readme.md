@@ -1,3 +1,5 @@
+[![Purpose](https://img.shields.io/badge/Purpose-Prototype-blue.svg)](https://github.com/abdullahgulraiz/SyncroRun)     [![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://github.com/abdullahgulraiz/SyncroRun)
+
 # SwiftBin
 
 ## About
