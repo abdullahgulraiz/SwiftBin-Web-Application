@@ -28,5 +28,5 @@ localhost/bins/input/[GSM Number]-[Weight]-[IR]
 
 ## People
 
-- * **[Dr. Khurram Kamal](mailto:k.kamal@ceme.nust.edu.pk)** - *Project Supervisor*
-- * **[Abdullah Gulraiz](mailto:abdullahgulraiz@outlook.com)** - *Web Developer*
+- **[Dr. Khurram Kamal](mailto:k.kamal@ceme.nust.edu.pk)** - *Project Supervisor*
+- **[Abdullah Gulraiz](mailto:abdullahgulraiz@outlook.com)** - *Web Developer*
